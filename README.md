@@ -1,6 +1,6 @@
 # IZP 1. project
 The goal of the project is to create a program that would emulate the algorithm for calculating the enabling and disabling of keys on the virtual navigation keyboard. The input of the program is the data of known addresses and the string entered by the user. The output of the program will contain the characters that should be allowed on the keyboard.
-
+### Evaluation 10/10
 # Build and try
 First make the project:
 ```console
